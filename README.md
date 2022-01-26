@@ -1,6 +1,6 @@
 # Online Banking System
 
-## Objectives
+## Objective
 
 The objective of this assignment is to design and develop an effective online banking system that permits the bank’s administrator to create a new profile for the customer and manage all the customers’ transactions efficiently. Meanwhile, the design of the system also allows the customers to access the system and make their own transactions like deposit and withdraw money as well as to view their own transactions.
 
